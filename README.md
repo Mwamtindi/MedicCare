@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="http://localhost:3000" target="_blank">
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
+      <img src="https://github.com/Mwamtindi/MedicCare/blob/main/public/assets/banner.png" alt="Project Banner">
     </a>
   <br />
 
@@ -981,6 +981,3 @@ export const StatusIcon = {
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
 
-<br />
-<br />
-#
