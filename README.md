@@ -24,6 +24,7 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Credits](#links)
+7. 👯 [Contribution](#cont)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -985,3 +986,5 @@ The software engineering team at all.
 - [Adrian](contact@jsmastery.pro)
 My teacher and mentor.
 
+## <a name="cont">🔗 Contributing</a>
+All contributions are welcome. Please remember to leave that one star!!!
