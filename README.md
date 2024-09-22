@@ -23,7 +23,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
+6. 🔗 [Credits](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -977,7 +977,11 @@ export const StatusIcon = {
 
 </details>
 
-## <a name="links">🔗 Assets</a>
+## <a name="links">🔗 Credits</a>
+My special thanks goes to the following parties that helped me alot in developing this project.
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+- [ALX](https://www.alxafrica.com)
+The software engineering team at all.
+- [Adrian](contact@jsmastery.pro)
+My teacher and mentor.
 
