@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="http://localhost:3000" target="_blank">
+    <a href="https://medic-care-ten.vercel.app/" target="_blank">
       <img src="https://github.com/Mwamtindi/MedicCare/blob/main/public/assets/banner.png" alt="Project Banner">
     </a>
   <br />
