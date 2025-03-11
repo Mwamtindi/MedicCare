@@ -988,3 +988,4 @@ My teacher and mentor.
 
 ## <a name="cont">🔗 Contributing</a>
 All contributions are welcome. Please remember to leave that one star!!!
+Thank you all.
